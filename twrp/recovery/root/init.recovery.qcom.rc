@@ -25,6 +25,7 @@
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
+import /init.recovery.wifi.rc
 import /init.recovery.qcom_decrypt.rc
 
 service variant-script /system/bin/variant-script.sh
